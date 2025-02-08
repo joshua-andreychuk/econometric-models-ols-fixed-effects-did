@@ -1,6 +1,6 @@
 # econometric-models-ols-fixed-effects-did
 
-# **Predictive Analytics and Fixed Effects Models with Stata**
+# **Predictive Analytics: Fixed Effects and difference-in-differences (DiD) Models with Stata**
 
 This project applies various **OLS-based econometric models** to analyze business data using **Stata**. The key objectives include estimating the **demand elasticity** for beer and evaluating the impact of Sunday store hours on profitability through **causal inference techniques** like **fixed effects** and **difference-in-differences (DiD)**.
 
